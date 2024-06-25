@@ -4,8 +4,8 @@ This repo contains script to generated hexagonal grids of sampling effort (numbe
 
 ## Data preparation
 
-Occurrence data from OBIS is gridded using the [speciesgrids](https://github.com/iobis/speciesgrids) Python package. See <data_preparation.py>.
+Occurrence data from OBIS is gridded using the [speciesgrids](https://github.com/iobis/speciesgrids) Python package. See [data_preparation.py](data_preparation.py).
 
 ## Figures
 
-Figures are are generated in <figures.R>.
+Figures are are generated in [figures.R](figures.R).
