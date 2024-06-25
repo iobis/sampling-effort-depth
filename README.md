@@ -9,3 +9,7 @@ Occurrence data from OBIS is gridded using the [speciesgrids](https://github.com
 ## Figures
 
 Figures are are generated in [figures.R](figures.R).
+
+## Citation
+
+OBIS (2024) Sampling effort by depth layer based on OBIS occurrences. https://github.com/iobis/sampling-effort-depth
